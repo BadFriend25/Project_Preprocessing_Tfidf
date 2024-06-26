@@ -32,7 +32,7 @@ Dengan mengikuti langkah-langkah ini, Kata unik / Unique Word dapat diekstrak da
 ---
 
 - Data
-    - [Kementerian Kominfo: Situs Elaelo Pengganti X/Twitter Bukan Buatan Pemerintah](https://tekno.kompas.com/read/2024/06/19/10310047/kementerian-kominfo--situs-elaelo-pengganti-x-twitter-bukan-buatan-pemerintah)
+    - [Kementerian Kominfo: Situs Elaelo Pengganti X/Twitter Bukan Buatan Pemerintah](https://tekno.kompas.com/read/2024/06/19/10310047/kementerian-kominfo--situs-elaelo-pengganti-x-twitter-bukan-buatan-pemerintah)  
     Artikel Utama pada [halaman utama kompas.com](https://www.kompas.com/) pada tanggal 19 Juni 2024.  
     - Samkok : Kisah Tiga Kerajaan
     Novel yang ditulis oleh Luo Guanzhong ditranslasikan oleh Leo Junaedi. Salah satu dari empat kumpulan novel klasik Cina. Menceritakan tentang jatuhnya kekaisaran dinasti Han dan kekacauan yang terjadi pada waktu itu.  
