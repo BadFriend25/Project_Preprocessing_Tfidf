@@ -83,57 +83,57 @@ Dengan mengikuti langkah-langkah ini, Kata unik / Unique Word dapat diekstrak da
     - ##### PyPDF2  
     `PyPDF2` adalah sebuah perpustakaan (library) Python yang digunakan untuk memanipulasi dokumen PDF. Perpustakaan ini memungkinkan pengguna untuk melakukan berbagai operasi pada file PDF, seperti menggabungkan dokumen PDF, memisahkan halaman, mengubah isi halaman, dan lain-lain.  
 
-                Berikut adalah beberapa fitur utama dari `PyPDF2`:  
+    Berikut adalah beberapa fitur utama dari `PyPDF2`:  
 
-                1. **Manipulasi PDF**: Menggabungkan beberapa file PDF menjadi satu file, membagi file PDF menjadi beberapa bagian, atau mengubah halaman dalam file PDF.
+    1. **Manipulasi PDF**: Menggabungkan beberapa file PDF menjadi satu file, membagi file PDF menjadi beberapa bagian, atau mengubah halaman dalam file PDF.
    
-                2. **Pengambilan Informasi**: Mengekstrak informasi seperti metadata (misalnya judul, penulis, dan lain-lain) dari file PDF.
+     2. **Pengambilan Informasi**: Mengekstrak informasi seperti metadata (misalnya judul, penulis, dan lain-lain) dari file PDF.
 
-                3. **Manipulasi Konten**: Menambahkan teks, gambar, atau bentuk lainnya ke halaman PDF.
+    3. **Manipulasi Konten**: Menambahkan teks, gambar, atau bentuk lainnya ke halaman PDF.
 
-                4. **Enkripsi dan Perlindungan**: `PyPDF2` mendukung enkripsi dan perlindungan terhadap file PDF dengan menambahkan kata sandi atau mengatur izin akses.
+    4. **Enkripsi dan Perlindungan**: `PyPDF2` mendukung enkripsi dan perlindungan terhadap file PDF dengan menambahkan kata sandi atau mengatur izin akses.
 
-                5. **Kompatibilitas**: Perpustakaan ini kompatibel dengan Python 2.7 dan Python 3.x.  
+    5. **Kompatibilitas**: Perpustakaan ini kompatibel dengan Python 2.7 dan Python 3.x.  
 
-                `PyPDF2` tidak hanya memungkinkan akses ke konten dari file PDF tetapi juga memberikan kontrol penuh terhadap struktur dan elemen dalam dokumen PDF tersebut. Hal ini membuatnya berguna untuk otomatisasi tugas-tugas yang melibatkan dokumen PDF, seperti pengolahan batch, pembuatan laporan, atau penyuntingan konten.  
+     `PyPDF2` tidak hanya memungkinkan akses ke konten dari file PDF tetapi juga memberikan kontrol penuh terhadap struktur dan elemen dalam dokumen PDF tersebut. Hal ini membuatnya berguna untuk otomatisasi tugas-tugas yang melibatkan dokumen PDF, seperti pengolahan batch, pembuatan laporan, atau penyuntingan konten.  
 
-                Penting untuk dicatat bahwa `PyPDF2` adalah proyek open-source dan dapat diunduh serta digunakan secara gratis oleh pengembang Python.  
+    Penting untuk dicatat bahwa `PyPDF2` adalah proyek open-source dan dapat diunduh serta digunakan secara gratis oleh pengembang Python.  
     - ##### string 1.4.0  
     Dalam konteks library Python, string merujuk pada tipe data dasar yang terdapat di dalam bahasa pemrograman Python itu sendiri. Namun, string juga dapat merujuk kepada modul atau pustaka tertentu yang digunakan untuk memanipulasi atau bekerja dengan teks dan karakter dalam Python.  
 
-            Berikut ini beberapa pustaka atau modul Python yang umum digunakan untuk bekerja dengan string:  
+    Berikut ini beberapa pustaka atau modul Python yang umum digunakan untuk bekerja dengan string:  
 
-            1. **`str` (String Methods)**: Ini adalah tipe data bawaan Python untuk merepresentasikan string dan menyediakan berbagai metode bawaan untuk manipulasi string, seperti `split()`, `join()`, `upper()`, `lower()`, `strip()`, dan banyak lagi.
+    1. **`str` (String Methods)**: Ini adalah tipe data bawaan Python untuk merepresentasikan string dan menyediakan berbagai metode bawaan untuk manipulasi string, seperti `split()`, `join()`, `upper()`, `lower()`, `strip()`, dan banyak lagi.
 
-            2. **`re` (Regular Expressions)**: Modul ini digunakan untuk pencarian dan pemrosesan pola teks kompleks menggunakan ekspresi regular (regular expressions). Dengan modul ini, developer dapat mencari, memfilter, dan memanipulasi teks berdasarkan pola tertentu.
+    2. **`re` (Regular Expressions)**: Modul ini digunakan untuk pencarian dan pemrosesan pola teks kompleks menggunakan ekspresi regular (regular expressions). Dengan modul ini, developer dapat mencari, memfilter, dan memanipulasi teks berdasarkan pola tertentu.
 
-            3. **`string` (Constants and Template Strings)**: Modul `string` menyediakan konstanta-konstanta yang digunakan dalam operasi-operasi dengan string, seperti `ascii_letters`, `digits`, `whitespace`, dan lain-lain. Modul ini juga mendukung template strings untuk formatting teks.
+    3. **`string` (Constants and Template Strings)**: Modul `string` menyediakan konstanta-konstanta yang digunakan dalam operasi-operasi dengan string, seperti `ascii_letters`, `digits`, `whitespace`, dan lain-lain. Modul ini juga mendukung template strings untuk formatting teks.
 
-            4. **`textwrap` (Text Wrapping and Formatting)**: Modul ini menyediakan fungsi-fungsi untuk memformat teks menjadi paragraf atau teks yang terpotong dengan rapi berdasarkan lebar kolom tertentu.
+    4. **`textwrap` (Text Wrapping and Formatting)**: Modul ini menyediakan fungsi-fungsi untuk memformat teks menjadi paragraf atau teks yang terpotong dengan rapi berdasarkan lebar kolom tertentu.
 
-            5. **`unicodedata` (Unicode Database)**: Modul `unicodedata` digunakan untuk bekerja dengan karakter unicode, seperti memeriksa jenis karakter (digit, huruf, dll.), mengubah huruf kecil ke huruf besar, dan sebaliknya.
+    5. **`unicodedata` (Unicode Database)**: Modul `unicodedata` digunakan untuk bekerja dengan karakter unicode, seperti memeriksa jenis karakter (digit, huruf, dll.), mengubah huruf kecil ke huruf besar, dan sebaliknya.
 
-            6. **`io` (Input/Output)**: Modul ini menyediakan kelas-kelas untuk memanipulasi data dalam bentuk string, seperti `StringIO` yang memungkinkan string diolah seperti file.
+    6. **`io` (Input/Output)**: Modul ini menyediakan kelas-kelas untuk memanipulasi data dalam bentuk string, seperti `StringIO` yang memungkinkan string diolah seperti file.
 
-            7. **`PyPDF2`**: `PyPDF2` adalah sebuah library Python khusus untuk memanipulasi dokumen PDF, bukan string secara langsung, tetapi kadang-kadang string juga terlibat dalam operasi manipulasi teks dalam dokumen PDF.  
+    7. **`PyPDF2`**: `PyPDF2` adalah sebuah library Python khusus untuk memanipulasi dokumen PDF, bukan string secara langsung, tetapi kadang-kadang string juga terlibat dalam operasi manipulasi teks dalam dokumen PDF.  
 
-            Dengan menggunakan modul-modul ini, pengembang dapat melakukan berbagai operasi terhadap teks dan karakter dalam Python, mulai dari operasi sederhana seperti pencarian dan penggantian hingga penggunaan pola dan ekspresi regular untuk pemrosesan teks yang lebih kompleks.  
+    Dengan menggunakan modul-modul ini, pengembang dapat melakukan berbagai operasi terhadap teks dan karakter dalam Python, mulai dari operasi sederhana seperti pencarian dan penggantian hingga penggunaan pola dan ekspresi regular untuk pemrosesan teks yang lebih kompleks.  
     - ##### sklearn  
     `sklearn`, atau `scikit-learn`, adalah sebuah library Python yang populer digunakan untuk machine learning. Library ini menyediakan berbagai alat dan fungsi untuk melakukan tugas-tugas umum dalam machine learning seperti klasifikasi, regresi, clustering, dan lain-lain. Berikut adalah beberapa poin utama tentang `sklearn`:  
 
-        1. **Machine Learning Algorithms**: `sklearn` menyediakan implementasi dari berbagai algoritma machine learning, termasuk klasifikasi (misalnya SVM, k-Nearest Neighbors, decision trees), regresi (misalnya linear regression, ridge regression), clustering (misalnya k-means), dan lain-lain.
+    1. **Machine Learning Algorithms**: `sklearn` menyediakan implementasi dari berbagai algoritma machine learning, termasuk klasifikasi (misalnya SVM, k-Nearest Neighbors, decision trees), regresi (misalnya linear regression, ridge regression), clustering (misalnya k-means), dan lain-lain.
 
-        2. **Preprocessing Data**: Library ini menyediakan berbagai fungsi untuk memproses dan mempersiapkan data sebelum melakukan pembelajaran, seperti penskalaan fitur, normalisasi, pengisian nilai yang hilang, dan ekstraksi fitur.
+    2. **Preprocessing Data**: Library ini menyediakan berbagai fungsi untuk memproses dan mempersiapkan data sebelum melakukan pembelajaran, seperti penskalaan fitur, normalisasi, pengisian nilai yang hilang, dan ekstraksi fitur.
 
-        3. **Evaluasi Model**: `sklearn` memiliki alat untuk mengevaluasi performa model machine learning, termasuk metrik seperti akurasi, presisi, recall, dan area di bawah kurva ROC (AUC).
+    3. **Evaluasi Model**: `sklearn` memiliki alat untuk mengevaluasi performa model machine learning, termasuk metrik seperti akurasi, presisi, recall, dan area di bawah kurva ROC (AUC).
 
-        4. **Pemodelan Statistik**: Selain machine learning, `sklearn` juga menyediakan beberapa fungsi statistik dasar seperti pengujian hipotesis, regresi linear, dan analisis komponen utama (PCA).
+    4. **Pemodelan Statistik**: Selain machine learning, `sklearn` juga menyediakan beberapa fungsi statistik dasar seperti pengujian hipotesis, regresi linear, dan analisis komponen utama (PCA).
 
-        5. **Integrasi dengan NumPy, SciPy, dan Pandas**: `sklearn` bekerja secara langsung dengan struktur data yang umum digunakan dalam analisis data di Python, seperti array NumPy, DataFrame Pandas, dan matriks sparse SciPy.
+    5. **Integrasi dengan NumPy, SciPy, dan Pandas**: `sklearn` bekerja secara langsung dengan struktur data yang umum digunakan dalam analisis data di Python, seperti array NumPy, DataFrame Pandas, dan matriks sparse SciPy.
 
-        6. **Open Source dan Community-driven**: `sklearn` adalah proyek open source yang aktif dikembangkan dan didukung oleh komunitas yang besar, yang berarti pengguna dapat dengan mudah menemukan dokumentasi, tutorial, dan dukungan dari komunitas.  
+    6. **Open Source dan Community-driven**: `sklearn` adalah proyek open source yang aktif dikembangkan dan didukung oleh komunitas yang besar, yang berarti pengguna dapat dengan mudah menemukan dokumentasi, tutorial, dan dukungan dari komunitas.  
 
-        `sklearn` sangat populer di kalangan praktisi machine learning karena kemudahannya digunakan, dokumentasi yang kaya, dan dukungan yang luas terhadap berbagai jenis tugas machine learning.  
+    `sklearn` sangat populer di kalangan praktisi machine learning karena kemudahannya digunakan, dokumentasi yang kaya, dan dukungan yang luas terhadap berbagai jenis tugas machine learning.  
     - ##### Microsoft Edge  
     Microsoft Edge adalah sebuah peramban web yang dikembangkan oleh Microsoft. Ini adalah penerus dari Internet Explorer dan dirilis pertama kali pada tahun 2015 sebagai bagian dari sistem operasi Windows 10. Microsoft Edge dirancang untuk memberikan pengalaman menjelajah yang lebih cepat, lebih aman, dan lebih produktif daripada pendahulunya.  
 
